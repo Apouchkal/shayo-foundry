@@ -1,19 +1,16 @@
 {
-    "id": "shayo-foudry",
+    "id": "shayo-foundry",
     "title": "Shayo",
     "description": "The Shayo system for FoundryVTT!",
     "version": "0.0.1",
     "templateVersion": 2,
     "scripts": [],
     "esmodules": [
-        "module/shayo-foudry.js"
+        "module/shayo-foundry.js"
     ],
     "styles": [
-        "css/shayo-foudry.css"
+        "css/shayo-foundry.css"
     ],
-    "packs": [],
     "gridDistance": 1.5,
-    "gridUnits": "m",
-    "primaryTokenAttribute": "",
-    "secondaryTokenAttribute": ""
+    "gridUnits": "m"
   }

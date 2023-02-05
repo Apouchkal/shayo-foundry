@@ -1,10 +1,15 @@
 {
     "Actor":{},
     "Item" : {
-        "types" : ["weapon"],
+        "types" : ["weapon", "armor"],
         "weapon" :{ 
             "damages":"1d",
             "reach":"4"
+        },
+        "armor" : {
+            "SD" : 0,
+            "protection" : 0,
+            "resistance" : 5
         }
     }
 }

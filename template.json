@@ -1,3 +1,10 @@
 {
-    
+    "Actor":{},
+    "Item" : {
+        "types" : ["weapon"],
+        "weapon" :{ 
+            "damages":"1d",
+            "reach":"4"
+        }
+    }
 }

@@ -3,18 +3,7 @@
     "title": "Shayo",
     "description": "The Shayo system for FoundryVTT!",
     "version": "0.0.1",
-    "compatibility": {
-        "minimum": "10",
-        "verified": "10",
-        "maximum": "10"
-    },
     "templateVersion": 2,
-    "authors": [
-        {
-          "name": "Apouchkal",
-          "email": "apouchkal@hotmail.fr"
-        }
-      ],
     "scripts": [],
     "esmodules": [
         "module/shayo-foudry.js"
@@ -23,13 +12,8 @@
         "css/shayo-foudry.css"
     ],
     "packs": [],
-    "languages": [],
     "gridDistance": 1.5,
     "gridUnits": "m",
     "primaryTokenAttribute": "",
-    "secondaryTokenAttribute": "",
-    "url": "",
-    "manifest": "",
-    "download": "",
-    "license": "LICENSE.txt"
+    "secondaryTokenAttribute": ""
   }
